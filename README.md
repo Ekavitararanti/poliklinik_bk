@@ -8,8 +8,8 @@ username : vita<br>
 password : 123
 <br>
 <h3>LOGIN DOKTER</h3>
-NIP : 16782234<br>
-password : dr. ekavita
+NIP : 16782233<br>
+password : dr. rara
 <br>
 <h3>Periksa pasien</h3>
 2024-01-07-10
